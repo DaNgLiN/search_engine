@@ -1,8 +1,5 @@
 # search_engine
 
-This repository contains a tiny search engine, in just
-[140 lines of Python](https://github.com/jorendorff/tinysearch/blob/master/tiny.py).
-Originally written for PyTennessee 2017.
 
 
 ## The challenge
@@ -16,6 +13,7 @@ The information you need to do this is already in the index.
 ## How to run this search engine
 
 1.  clone this repository
+    `git clone https://github.com/DaNgLiN/search_engine.git`
 
 2.  download either(datasets is included in the code above if you wish you ca download it from below link)
     [sample.tar.bz2](https://www.dropbox.com/s/uk5ns6u597z1rwp/sample.tar.bz2?dl=1)
@@ -33,7 +31,7 @@ The information you need to do this is already in the index.
 5.  `FLASK_DEBUG=1 FLASK_APP=web.py flask run`
     to start the web server!
 
-Then you can go to <http://localhost:5000/> to see the toy search engine.
+Then you can go to `<http://localhost:5000/>` to see the to search engine.
 
 
 ## How to switch to the large sample
