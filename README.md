@@ -15,7 +15,7 @@ The information you need to do this is already in the index.
 1.  clone this repository
     `git clone https://github.com/DaNgLiN/search_engine.git`
 
-2.  download either(datasets is included in the code above if you wish you ca download it from below link)
+2.  download either
     [sample.tar.bz2](https://www.dropbox.com/s/uk5ns6u597z1rwp/sample.tar.bz2?dl=1)
     or
     [sample.zip](https://www.dropbox.com/s/cn6n2xjjyyz3c13/sample.zip?dl=1)
